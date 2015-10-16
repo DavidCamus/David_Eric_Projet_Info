@@ -1,0 +1,8 @@
+*.obj
+Projet_Info/Projet_Info.opensdf
+*.pdb
+Projet_Info/Projet_Info.sdf
+*.log
+Projet_Info/Projet_Info/Debug/Projet_Info.tlog/CL.command.1.tlog
+*.tlog
+Projet_Info/Projet_Info/Debug/vc140.idb
